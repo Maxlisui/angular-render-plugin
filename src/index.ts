@@ -54,3 +54,7 @@ export * from './types';
 export { NodeService } from './node.service';
 export { NodeComponent } from './node/node.component';
 export { SocketComponent } from './socket/socket.component';
+export { CustomComponent } from './custom.component';
+export { SocketDirective } from './socket.directive';
+export { ControlDirective } from './control.directive';
+export { KebabPipe } from './kebab.pipe';
